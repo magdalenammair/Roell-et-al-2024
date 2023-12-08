@@ -1,3 +1,3 @@
-sink("Code/session_info.txt")
+sink("session_info.txt")
 sessionInfo() 
 sink()
