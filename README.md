@@ -19,7 +19,6 @@ The materials consist of
 * a folder containing all raw, cleaned and prepared [**Data**](https://github.com/magdalenammair/Roell-et-al-2023/tree/master/Data)
 * a folder containing all [**R Code**](https://github.com/magdalenammair/Roell-et-al-2023/tree/master/Code) used for data preparation, analysis and plotting
 * a folder containing all [**Plots**](https://github.com/magdalenammair/Roell-et-al-2023/tree/master/Plots) produced as an output of the code provided
-* a folder in which analysis [**Results**](https://github.com/magdalenammair/Roell-et-al-2023/tree/master/Results) are stored
 * a file giving [**information about software and package versions**](https://github.com/magdalenammair/Roell-et-al-2023/tree/master/sessionInfo.txt) used for the published analysis and illustration
 * [**Figure 1**](https://github.com/magdalenammair/Roell-et-al-2023/tree/master/figure01.png) of the published manuscript illustrating the species mentioned in guidance documents and the availability and quality of their genomic resources in a synthetic phylogenetic tree
 * [**Table S1**](https://github.com/magdalenammair/Roell-et-al-2023/tree/master/ESM_Table_S1.xlsx) of the electronic supplementary material - Species list with habitat information, reference guidance document, availability and quality of genomic resources 
