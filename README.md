@@ -4,7 +4,7 @@
 
 This repository provides all data and R code for 
   
-**Roell, M.S, Ott, M.-C., Mair, M.M., Pamminger, T. Missing genomic resources for the next generation of environmental risk assessment. Closing the gap on genomic resources for ecotoxicology paves the way towards system ecotoxicology. *X* Number ([Link](Link)) ** 
+**Roell, M.S, Ott, M.-C., Mair, M.M., Pamminger, T. Missing genomic resources for the next generation of environmental risk assessment. Closing the gap on genomic resources for ecotoxicology paves the way towards system ecotoxicology. *X* Number ([Link](Link))** 
     
       
 *Abstract*  
@@ -22,8 +22,8 @@ The materials consist of
 * a folder in which analysis [**Results**](https://github.com/magdalenammair/Roell-et-al-2023/tree/master/Results) are stored
 * a file giving [**information about software and package versions**](https://github.com/magdalenammair/Roell-et-al-2023/tree/master/sessionInfo.txt) used for the published analysis and illustration
 * [**Figure 1**](https://github.com/magdalenammair/Roell-et-al-2023/tree/master/figure01.png) of the published manuscript illustrating the species mentioned in guidance documents and the availability and quality of their genomic resources in a synthetic phylogenetic tree
-* Table S1 of the electronic supplementary material (https://github.com/magdalenammair/Roell-et-al-2023/tree/master/ESM_Table_S1.xlsx) - Species list with habitat information, reference guidance document, availability and quality of genomic resources 
-* Table S2 of the electronic supplementary material (https://github.com/magdalenammair/Roell-et-al-2023/tree/master/ESM_Table_S2.xlsx) - Summary of genomic information per species
+* [**Table S1**](https://github.com/magdalenammair/Roell-et-al-2023/tree/master/ESM_Table_S1.xlsx) of the electronic supplementary material - Species list with habitat information, reference guidance document, availability and quality of genomic resources 
+* [**Table S2**](https://github.com/magdalenammair/Roell-et-al-2023/tree/master/ESM_Table_S2.xlsx) of the electronic supplementary material - Summary of genomic information per species
 ---
 
 
