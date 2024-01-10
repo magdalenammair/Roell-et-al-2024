@@ -1,0 +1,26 @@
+{
+    "id": "3D48E04A",
+    "path": "~/Dropbox/Ecotox/PROJECT_Ecotox_genomes/Roell-et-al-2024/Code/07_get_session_info.R",
+    "project_path": "Code/07_get_session_info.R",
+    "type": "r_source",
+    "hash": "213024277",
+    "contents": "",
+    "dirty": false,
+    "created": 1704873560221.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,6",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1702020889,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1702020889,
+    "read_only": false,
+    "read_only_alternatives": []
+}
