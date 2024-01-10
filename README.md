@@ -4,7 +4,7 @@
 
 This repository provides all data and R code for 
   
-**Roell, M.S, Ott, M.-C., Mair, M.M., Pamminger, T. 2024. Missing genomic resources for the next generation of environmental risk assessment. Closing the gap on genomic resources for ecotoxicology paves the way towards system ecotoxicology. *X* Number ([Link](Link))** 
+**Roell, M.S, Ott, M.-C., Mair, M.M., Pamminger, T. 2024. Missing genomic resources for the next generation of environmental risk assessment. Closing the gap on genomic resources for ecotoxicology paves the way towards system ecotoxicology. *Environmental Science & Technology* Number ([Link](Link))** 
     
       
 *Abstract*  
